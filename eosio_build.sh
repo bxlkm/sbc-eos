@@ -52,6 +52,7 @@
 	DISK_MIN=20
 	DOXYGEN=false
 	ENABLE_COVERAGE_TESTING=false
+	CORE_SYMBOL_NAME="SBC" #onechain-SYS修改为SBC
 	TEMP_DIR="/tmp"
 	TIME_BEGIN=$( date -u +%s )
 	VERSION=1.2
