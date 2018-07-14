@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="EOSIO" targetName="binaryen" />
+      <config projectName="EOSIO" targetName="print_floats" />
+      <config projectName="EOSIO" targetName="IR" />
+      <config projectName="EOSIO" targetName="infinite" />
+      <config projectName="EOSIO" targetName="passes" />
+      <config projectName="EOSIO" targetName="eosio.msig" />
+      <config projectName="EOSIO" targetName="net_api_plugin" />
+      <config projectName="EOSIO" targetName="Emscripten" />
+      <config projectName="EOSIO" targetName="identity_common" />
+      <config projectName="EOSIO" targetName="test_api_mem" />
+      <config projectName="EOSIO" targetName="identity_test" />
+      <config projectName="EOSIO" targetName="fc" />
+      <config projectName="EOSIO" targetName="Logging" />
+      <config projectName="EOSIO" targetName="support" />
+      <config projectName="EOSIO" targetName="eosio.token" />
+      <config projectName="EOSIO" targetName="wavm" />
+      <config projectName="EOSIO" targetName="Platform" />
+      <config projectName="EOSIO" targetName="eosio.token.tmp" />
+      <config projectName="EOSIO" targetName="stltest.tmp" />
+      <config projectName="EOSIO" targetName="asserter" />
+      <config projectName="EOSIO" targetName="bnet_plugin" />
+      <config projectName="EOSIO" targetName="WASM" />
+      <config projectName="EOSIO" targetName="dice" />
+      <config projectName="EOSIO" targetName="eosio.bios" />
+      <config projectName="EOSIO" targetName="abi_generator" />
+      <config projectName="EOSIO" targetName="deferred_test" />
+      <config projectName="EOSIO" targetName="test_api" />
+      <config projectName="EOSIO" targetName="libc" />
+      <config projectName="EOSIO" targetName="nodeos" />
+      <config projectName="EOSIO" targetName="copy_skeleton_contract" />
+      <config projectName="EOSIO" targetName="softfloat" />
+      <config projectName="EOSIO" targetName="noop.tmp" />
+      <config projectName="EOSIO" targetName="identity_interface" />
+      <config projectName="EOSIO" targetName="WAST" />
+      <config projectName="EOSIO" targetName="test_api_multi_index" />
+      <config projectName="EOSIO" targetName="chainbase" />
+      <config projectName="EOSIO" targetName="test_ram_limit.tmp" />
+      <config projectName="EOSIO" targetName="dice.tmp" />
+      <config projectName="EOSIO" targetName="sql_db_plugin_test" />
+      <config projectName="EOSIO" targetName="http_client_plugin" />
+      <config projectName="EOSIO" targetName="asserter.tmp" />
+      <config projectName="EOSIO" targetName="eosio-s2wasm" />
+      <config projectName="EOSIO" targetName="simple.token" />
+      <config projectName="EOSIO" targetName="wallet_api_plugin" />
+      <config projectName="EOSIO" targetName="eosiolib" />
+      <config projectName="EOSIO" targetName="proxy" />
+      <config projectName="EOSIO" targetName="eosio.system.tmp" />
+      <config projectName="EOSIO" targetName="identity" />
+      <config projectName="EOSIO" targetName="producer_plugin" />
+      <config projectName="EOSIO" targetName="payloadless.tmp" />
+      <config projectName="EOSIO" targetName="test_ram_limit" />
+      <config projectName="EOSIO" targetName="identity_test.tmp" />
+      <config projectName="EOSIO" targetName="eosio.msig.tmp" />
+      <config projectName="EOSIO" targetName="multi_index_test" />
+      <config projectName="EOSIO" targetName="txn_test_gen_plugin" />
+      <config projectName="EOSIO" targetName="test.inline.tmp" />
+      <config projectName="EOSIO" targetName="simple.token.tmp" />
+      <config projectName="EOSIO" targetName="stltest" />
+      <config projectName="EOSIO" targetName="chainbase_test" />
+      <config projectName="EOSIO" targetName="producer_api_plugin" />
+      <config projectName="EOSIO" targetName="deferred_test.tmp" />
+      <config projectName="EOSIO" targetName="unit_test" />
+      <config projectName="EOSIO" targetName="test_cypher_suites" />
+      <config projectName="EOSIO" targetName="chain_api_plugin" />
+      <config projectName="EOSIO" targetName="eosio.sudo.tmp" />
+      <config projectName="EOSIO" targetName="history_api_plugin" />
+      <config projectName="EOSIO" targetName="http_plugin" />
+      <config projectName="EOSIO" targetName="wallet_plugin" />
+      <config projectName="EOSIO" targetName="test_exchange" />
+      <config projectName="EOSIO" targetName="Runtime" />
+      <config projectName="EOSIO" targetName="Disassemble" />
+      <config projectName="EOSIO" targetName="identity.tmp" />
+      <config projectName="EOSIO" targetName="keosd" />
+      <config projectName="EOSIO" targetName="eosio_chain" />
+      <config projectName="EOSIO" targetName="net_plugin" />
+      <config projectName="EOSIO" targetName="chain_plugin" />
+      <config projectName="EOSIO" targetName="test.inline" />
+      <config projectName="EOSIO" targetName="test_api_db" />
+      <config projectName="EOSIO" targetName="appbase_example" />
+      <config projectName="EOSIO" targetName="cfg" />
+      <config projectName="EOSIO" targetName="eosio-launcher" />
+      <config projectName="EOSIO" targetName="infinite.tmp" />
+      <config projectName="EOSIO" targetName="proxy.tmp" />
+      <config projectName="EOSIO" targetName="tic_tac_toe.tmp" />
+      <config projectName="EOSIO" targetName="eosio-wast2wasm" />
+      <config projectName="EOSIO" targetName="asmjs" />
+      <config projectName="EOSIO" targetName="eos_utilities" />
+      <config projectName="EOSIO" targetName="eosio.system" />
+      <config projectName="EOSIO" targetName="tic_tac_toe" />
+      <config projectName="EOSIO" targetName="multi_index_test.tmp" />
+      <config projectName="EOSIO" targetName="cleos" />
+      <config projectName="EOSIO" targetName="Test" />
+      <config projectName="EOSIO" targetName="wasm" />
+      <config projectName="EOSIO" targetName="exchange.tmp" />
+      <config projectName="EOSIO" targetName="test_api_db.tmp" />
+      <config projectName="EOSIO" targetName="libc++" />
+      <config projectName="EOSIO" targetName="noop" />
+      <config projectName="EOSIO" targetName="hello.tmp" />
+      <config projectName="EOSIO" targetName="exchange" />
+      <config projectName="EOSIO" targetName="test_api.tmp" />
+      <config projectName="EOSIO" targetName="plugin_test" />
+      <config projectName="EOSIO" targetName="test_api_mem.tmp" />
+      <config projectName="EOSIO" targetName="eosio.sudo" />
+      <config projectName="EOSIO" targetName="history_plugin" />
+      <config projectName="EOSIO" targetName="eosio.bios.tmp" />
+      <config projectName="EOSIO" targetName="eosio_testing" />
+      <config projectName="EOSIO" targetName="hello" />
+      <config projectName="EOSIO" targetName="db_size_api_plugin" />
+      <config projectName="EOSIO" targetName="emscripten-optimizer" />
+      <config projectName="EOSIO" targetName="payloadless" />
+      <config projectName="EOSIO" targetName="test_api_multi_index.tmp" />
+      <config projectName="EOSIO" targetName="ast" />
+      <config projectName="EOSIO" targetName="eosio-abigen" />
+      <config projectName="EOSIO" targetName="builtins" />
+      <config projectName="EOSIO" targetName="Inline" />
+      <config projectName="EOSIO" targetName="sql_db_plugin" />
+      <config projectName="EOSIO" targetName="appbase" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCMAKE_INSTALL_PREFIX=/home/likunmiao/opt/install/debug">
+        <ADDITIONAL_GENERATION_ENVIRONMENT>
+          <envs>
+            <env name="BOOST_ROOT" value="$USER_HOME$/opt/boost" />
+            <env name="BOOST_INCLUDEDIR" value="$USER_HOME$/opt/boost/include" />
+            <env name="BOOST_LIBRARYDIR" value="$USER_HOME$/opt/boost/lib" />
+          </envs>
+        </ADDITIONAL_GENERATION_ENVIRONMENT>
+      </configuration>
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" GENERATION_OPTIONS="-DCMAKE_INSTALL_PREFIX=/home/likunmiao/opt/install/release">
+        <ADDITIONAL_GENERATION_ENVIRONMENT>
+          <envs>
+            <env name="BOOST_ROOT" value="$USER_HOME$/opt/boost" />
+            <env name="BOOST_INCLUDEDIR" value="$USER_HOME$/opt/boost/include" />
+            <env name="BOOST_LIBRARYDIR" value="$USER_HOME$/opt/boost/lib" />
+          </envs>
+        </ADDITIONAL_GENERATION_ENVIRONMENT>
+      </configuration>
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3272b060-029d-4ff7-a4b7-4d898b1ed7b0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.buildkite/coverage.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.buildkite/debug.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.buildkite/pipeline.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/eosiolib/core_symbol.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/eosiolib/core_symbol.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/social/social.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/social/social.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eosio_build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/eosio_build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/fc" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/fc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/block_storage.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/block_storage.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/consumer.h" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/consumer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/consumer_core.h" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/consumer_core.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/db/accounts_table.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/db/accounts_table.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/db/accounts_table.h" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/db/accounts_table.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/db/actions_table.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/db/actions_table.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/db/actions_table.h" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/db/actions_table.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/db/blocks_table.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/db/blocks_table.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/db/blocks_table.h" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/db/blocks_table.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/db/database.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/db/database.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/db/database.h" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/db/database.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/db/transactions_table.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/db/transactions_table.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/db/transactions_table.h" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/db/transactions_table.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/fifo.h" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/fifo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/include/eosio/sql_db_plugin/sql_db_plugin.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/include/eosio/sql_db_plugin/sql_db_plugin.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/irreversible_block_storage.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/irreversible_block_storage.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/sql_db_plugin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/sql_db_plugin.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/test/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/test/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/test/consumer_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/test/consumer_test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/test/fifo_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/test/fifo_test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sql_db_plugin/test/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/sql_db_plugin/test/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/cleos/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/programs/cleos/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/eosio-launcher/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/programs/eosio-launcher/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/eosio_build_ubuntu.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/eosio_build_ubuntu.sh" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/cmake-build-release/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="sql_db_plugin.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/sql_db_plugin.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-199">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <element signature="e#120#168#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="social.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/social/social.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="eosio.system_tests.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unittests/eosio.system_tests.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="1941" column="47" lean-forward="true" selection-start-line="1941" selection-start-column="47" selection-end-line="1941" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/db/database.h">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="eosio.system.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/eosio.system/eosio.system.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="76" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin-old-unuse/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actions_table.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/db/actions_table.h">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="actions_table.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/db/actions_table.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-169">
+              <caret line="192" column="33" lean-forward="true" selection-start-line="192" selection-start-column="33" selection-end-line="192" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="accounts_table.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/db/accounts_table.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="505">
+              <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blocks_table.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/db/blocks_table.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>EOS&quot;</find>
+      <find>/usr/local/</find>
+      <find>CMAKE_INSTALL_</find>
+      <find>/usr/local</find>
+      <find>CMAKE_INSTALL_FULL_SYSCONFDIR</find>
+      <find>INSTALL</find>
+      <find>STATIC</find>
+      <find>SYS</find>
+      <find>likunmiao</find>
+      <find>main</find>
+      <find>SBC</find>
+      <find>onechain</find>
+      <find>&quot;EOS&quot;</find>
+      <find>EOS</find>
+      <find>BUFFER_SIZE_OPTION</find>
+      <find>actions_table.cpp</find>
+      <find>15%</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/libraries/fc/include/fc/crypto/public_key.hpp" />
+        <option value="$PROJECT_DIR$/programs/eosio-launcher/main.cpp" />
+        <option value="$PROJECT_DIR$/programs/cleos/main.cpp" />
+        <option value="$PROJECT_DIR$/scripts/eosio_build_ubuntu.sh" />
+        <option value="$PROJECT_DIR$/eosio_build.sh" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/plugins/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/plugins/sql_db_plugin/sql_db_plugin.cpp" />
+        <option value="$PROJECT_DIR$/contracts/social/social.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/externals/binaryen/test/emscripten/package.json" />
+      <path value="$PROJECT_DIR$/externals/binaryen/test/emscripten/tests/sockets/p2p/package.json" />
+      <path value="$PROJECT_DIR$/externals/binaryen/test/emscripten/tests/sockets/ws/package.json" />
+      <path value="$PROJECT_DIR$/externals/binaryen/test/emscripten/third_party/websockify/other/js/package.json" />
+      <path value="$PROJECT_DIR$/externals/binaryen/test/emscripten/tools/eliminator/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/externals/binaryen/test/emscripten/tools/node_modules/source-map/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/externals/binaryen/test/emscripten/tools/node_modules/source-map/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="116" />
+    <option name="y" value="8" />
+    <option name="width" value="1400" />
+    <option name="height" value="853" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EOSIO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eos" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/likunmiao/onechain/smartbitcoin/eos/libraries/fc/include/fc/crypto/public_key.hpp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/opt/install/release/bin/nodeos" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.sql_db_plugin">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="Disassemble" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="Disassemble" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="Disassemble" />
+    <configuration name="Emscripten" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="Emscripten" CONFIG_NAME="Debug" />
+    <configuration name="IR" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="IR" CONFIG_NAME="Debug" />
+    <configuration name="Inline" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="Inline" CONFIG_NAME="Debug" />
+    <configuration name="Logging" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="Logging" CONFIG_NAME="Debug" />
+    <configuration name="Platform" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="Platform" CONFIG_NAME="Debug" />
+    <configuration name="Runtime" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="Runtime" CONFIG_NAME="Debug" />
+    <configuration name="Test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="Test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="Test" />
+    <configuration name="WASM" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="WASM" CONFIG_NAME="Debug" />
+    <configuration name="WAST" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="WAST" CONFIG_NAME="Debug" />
+    <configuration name="abi_generator" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="abi_generator" CONFIG_NAME="Debug" />
+    <configuration name="appbase" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="appbase" CONFIG_NAME="Debug" />
+    <configuration name="appbase_example" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="appbase_example" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="appbase_example" />
+    <configuration name="asmjs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="asmjs" CONFIG_NAME="Debug" />
+    <configuration name="asserter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="asserter" CONFIG_NAME="Debug" />
+    <configuration name="asserter.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="asserter.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="asserter.tmp" />
+    <configuration name="ast" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="ast" CONFIG_NAME="Debug" />
+    <configuration name="binaryen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="binaryen" CONFIG_NAME="Debug" />
+    <configuration name="bnet_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="bnet_plugin" CONFIG_NAME="Debug" />
+    <configuration name="builtins" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="builtins" CONFIG_NAME="Debug" />
+    <configuration name="cfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="cfg" CONFIG_NAME="Debug" />
+    <configuration name="chain_api_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="chain_api_plugin" CONFIG_NAME="Debug" />
+    <configuration name="chain_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="chain_plugin" CONFIG_NAME="Debug" />
+    <configuration name="chainbase" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="chainbase" CONFIG_NAME="Debug" />
+    <configuration name="chainbase_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="chainbase_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="chainbase_test" />
+    <configuration name="cleos" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="cleos" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="cleos" />
+    <configuration name="copy_skeleton_contract" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="copy_skeleton_contract" CONFIG_NAME="Debug" />
+    <configuration name="db_size_api_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="db_size_api_plugin" CONFIG_NAME="Debug" />
+    <configuration name="deferred_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="deferred_test" CONFIG_NAME="Debug" />
+    <configuration name="deferred_test.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="deferred_test.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="deferred_test.tmp" />
+    <configuration name="dice" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="dice" CONFIG_NAME="Debug" />
+    <configuration name="dice.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="dice.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="dice.tmp" />
+    <configuration name="emscripten-optimizer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="emscripten-optimizer" CONFIG_NAME="Debug" />
+    <configuration name="eos_utilities" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eos_utilities" CONFIG_NAME="Debug" />
+    <configuration name="eosio-abigen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio-abigen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="eosio-abigen" />
+    <configuration name="eosio-launcher" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio-launcher" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="eosio-launcher" />
+    <configuration name="eosio-s2wasm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio-s2wasm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="eosio-s2wasm" />
+    <configuration name="eosio-wast2wasm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio-wast2wasm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="eosio-wast2wasm" />
+    <configuration name="eosio.bios" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio.bios" CONFIG_NAME="Debug" />
+    <configuration name="eosio.bios.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio.bios.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="eosio.bios.tmp" />
+    <configuration name="eosio_chain" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio_chain" CONFIG_NAME="Debug" />
+    <configuration name="eosio.msig" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio.msig" CONFIG_NAME="Debug" />
+    <configuration name="eosio.msig.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio.msig.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="eosio.msig.tmp" />
+    <configuration name="eosio.sudo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio.sudo" CONFIG_NAME="Debug" />
+    <configuration name="eosio.sudo.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio.sudo.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="eosio.sudo.tmp" />
+    <configuration name="eosio.system" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio.system" CONFIG_NAME="Debug" />
+    <configuration name="eosio.system.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio.system.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="eosio.system.tmp" />
+    <configuration name="eosio_testing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio_testing" CONFIG_NAME="Debug" />
+    <configuration name="eosio.token" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio.token" CONFIG_NAME="Debug" />
+    <configuration name="eosio.token.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosio.token.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="eosio.token.tmp" />
+    <configuration name="eosiolib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="eosiolib" CONFIG_NAME="Debug" />
+    <configuration name="exchange" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="exchange" CONFIG_NAME="Debug" />
+    <configuration name="exchange.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="exchange.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="exchange.tmp" />
+    <configuration name="fc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="fc" CONFIG_NAME="Debug" />
+    <configuration name="hello" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="hello" CONFIG_NAME="Debug" />
+    <configuration name="hello.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="hello.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="hello.tmp" />
+    <configuration name="history_api_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="history_api_plugin" CONFIG_NAME="Debug" />
+    <configuration name="history_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="history_plugin" CONFIG_NAME="Debug" />
+    <configuration name="http_client_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="http_client_plugin" CONFIG_NAME="Debug" />
+    <configuration name="http_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="http_plugin" CONFIG_NAME="Debug" />
+    <configuration name="identity" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="identity" CONFIG_NAME="Debug" />
+    <configuration name="identity_common" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="identity_common" CONFIG_NAME="Debug" />
+    <configuration name="identity_interface" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="identity_interface" CONFIG_NAME="Debug" />
+    <configuration name="identity_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="identity_test" CONFIG_NAME="Debug" />
+    <configuration name="identity_test.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="identity_test.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="identity_test.tmp" />
+    <configuration name="identity.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="identity.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="identity.tmp" />
+    <configuration name="infinite" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="infinite" CONFIG_NAME="Debug" />
+    <configuration name="infinite.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="infinite.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="infinite.tmp" />
+    <configuration name="keosd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="keosd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="keosd" />
+    <configuration name="libc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="libc" CONFIG_NAME="Debug" />
+    <configuration name="libc++" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="libc++" CONFIG_NAME="Debug" />
+    <configuration name="multi_index_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="multi_index_test" CONFIG_NAME="Debug" />
+    <configuration name="multi_index_test.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="multi_index_test.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="multi_index_test.tmp" />
+    <configuration name="net_api_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="net_api_plugin" CONFIG_NAME="Debug" />
+    <configuration name="net_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="net_plugin" CONFIG_NAME="Debug" />
+    <configuration name="nodeos" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="nodeos" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="nodeos" />
+    <configuration name="noop" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="noop" CONFIG_NAME="Debug" />
+    <configuration name="noop.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="noop.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="noop.tmp" />
+    <configuration name="passes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="passes" CONFIG_NAME="Debug" />
+    <configuration name="payloadless" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="payloadless" CONFIG_NAME="Debug" />
+    <configuration name="payloadless.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="payloadless.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="payloadless.tmp" />
+    <configuration name="plugin_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="plugin_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="plugin_test" />
+    <configuration name="print_floats" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="print_floats" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="print_floats" />
+    <configuration name="producer_api_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="producer_api_plugin" CONFIG_NAME="Debug" />
+    <configuration name="producer_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="producer_plugin" CONFIG_NAME="Debug" />
+    <configuration name="proxy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="proxy" CONFIG_NAME="Debug" />
+    <configuration name="proxy.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="proxy.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="proxy.tmp" />
+    <configuration name="simple.token" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="simple.token" CONFIG_NAME="Debug" />
+    <configuration name="simple.token.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="simple.token.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="simple.token.tmp" />
+    <configuration name="softfloat" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="softfloat" CONFIG_NAME="Debug" />
+    <configuration name="sql_db_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="sql_db_plugin" CONFIG_NAME="Debug" />
+    <configuration name="sql_db_plugin_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="sql_db_plugin_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="sql_db_plugin_test" />
+    <configuration name="stltest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="stltest" CONFIG_NAME="Debug" />
+    <configuration name="stltest.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="stltest.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="stltest.tmp" />
+    <configuration name="support" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="support" CONFIG_NAME="Debug" />
+    <configuration name="test_api" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="test_api" CONFIG_NAME="Debug" />
+    <configuration name="test_api_db" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="test_api_db" CONFIG_NAME="Debug" />
+    <configuration name="test_api_db.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="test_api_db.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="test_api_db.tmp" />
+    <configuration name="test_api_mem" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="test_api_mem" CONFIG_NAME="Debug" />
+    <configuration name="test_api_mem.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="test_api_mem.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="test_api_mem.tmp" />
+    <configuration name="test_api_multi_index" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="test_api_multi_index" CONFIG_NAME="Debug" />
+    <configuration name="test_api_multi_index.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="test_api_multi_index.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="test_api_multi_index.tmp" />
+    <configuration name="test_api.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="test_api.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="test_api.tmp" />
+    <configuration name="test_cypher_suites" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="test_cypher_suites" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="test_cypher_suites" />
+    <configuration name="test_exchange" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="test_exchange" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="test_exchange" />
+    <configuration name="test.inline" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="test.inline" CONFIG_NAME="Debug" />
+    <configuration name="test.inline.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="test.inline.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="test.inline.tmp" />
+    <configuration name="test_ram_limit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="test_ram_limit" CONFIG_NAME="Debug" />
+    <configuration name="test_ram_limit.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="test_ram_limit.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="test_ram_limit.tmp" />
+    <configuration name="tic_tac_toe" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="tic_tac_toe" CONFIG_NAME="Debug" />
+    <configuration name="tic_tac_toe.tmp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="tic_tac_toe.tmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="tic_tac_toe.tmp" />
+    <configuration name="txn_test_gen_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="txn_test_gen_plugin" CONFIG_NAME="Debug" />
+    <configuration name="unit_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="unit_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="unit_test" />
+    <configuration name="wallet_api_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="wallet_api_plugin" CONFIG_NAME="Debug" />
+    <configuration name="wallet_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="wallet_plugin" CONFIG_NAME="Debug" />
+    <configuration name="wasm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="wasm" CONFIG_NAME="Debug" />
+    <configuration name="wavm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EOSIO" TARGET_NAME="wavm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EOSIO" RUN_TARGET_NAME="wavm" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.copy_skeleton_contract" />
+      <item itemvalue="Application.asserter" />
+      <item itemvalue="Application.asserter.tmp" />
+      <item itemvalue="Application.dice" />
+      <item itemvalue="Application.dice.tmp" />
+      <item itemvalue="Application.eosio.bios" />
+      <item itemvalue="Application.eosio.bios.tmp" />
+      <item itemvalue="Application.eosio.msig" />
+      <item itemvalue="Application.eosio.msig.tmp" />
+      <item itemvalue="Application.eosio.sudo" />
+      <item itemvalue="Application.eosio.sudo.tmp" />
+      <item itemvalue="Application.eosio.system" />
+      <item itemvalue="Application.eosio.system.tmp" />
+      <item itemvalue="Application.eosio.token" />
+      <item itemvalue="Application.eosio.token.tmp" />
+      <item itemvalue="Application.eosiolib" />
+      <item itemvalue="Application.exchange" />
+      <item itemvalue="Application.exchange.tmp" />
+      <item itemvalue="Application.test_exchange" />
+      <item itemvalue="Application.hello" />
+      <item itemvalue="Application.hello.tmp" />
+      <item itemvalue="Application.identity" />
+      <item itemvalue="Application.identity.tmp" />
+      <item itemvalue="Application.identity_common" />
+      <item itemvalue="Application.identity_interface" />
+      <item itemvalue="Application.identity_test" />
+      <item itemvalue="Application.identity_test.tmp" />
+      <item itemvalue="Application.infinite" />
+      <item itemvalue="Application.infinite.tmp" />
+      <item itemvalue="Application.libc++" />
+      <item itemvalue="Application.multi_index_test" />
+      <item itemvalue="Application.multi_index_test.tmp" />
+      <item itemvalue="Application.libc" />
+      <item itemvalue="Application.noop" />
+      <item itemvalue="Application.noop.tmp" />
+      <item itemvalue="Application.payloadless" />
+      <item itemvalue="Application.payloadless.tmp" />
+      <item itemvalue="Application.proxy" />
+      <item itemvalue="Application.proxy.tmp" />
+      <item itemvalue="Application.simple.token" />
+      <item itemvalue="Application.simple.token.tmp" />
+      <item itemvalue="Application.stltest" />
+      <item itemvalue="Application.stltest.tmp" />
+      <item itemvalue="Application.test.inline" />
+      <item itemvalue="Application.test.inline.tmp" />
+      <item itemvalue="Application.test_api" />
+      <item itemvalue="Application.test_api.tmp" />
+      <item itemvalue="Application.test_api_db" />
+      <item itemvalue="Application.test_api_db.tmp" />
+      <item itemvalue="Application.test_api_mem" />
+      <item itemvalue="Application.test_api_mem.tmp" />
+      <item itemvalue="Application.test_api_multi_index" />
+      <item itemvalue="Application.test_api_multi_index.tmp" />
+      <item itemvalue="Application.test_ram_limit" />
+      <item itemvalue="Application.test_ram_limit.tmp" />
+      <item itemvalue="Application.tic_tac_toe" />
+      <item itemvalue="Application.tic_tac_toe.tmp" />
+      <item itemvalue="Application.binaryen" />
+      <item itemvalue="Application.eosio-s2wasm" />
+      <item itemvalue="Application.asmjs" />
+      <item itemvalue="Application.ast" />
+      <item itemvalue="Application.cfg" />
+      <item itemvalue="Application.emscripten-optimizer" />
+      <item itemvalue="Application.passes" />
+      <item itemvalue="Application.support" />
+      <item itemvalue="Application.wasm" />
+      <item itemvalue="Application.abi_generator" />
+      <item itemvalue="Application.appbase" />
+      <item itemvalue="Application.appbase_example" />
+      <item itemvalue="Application.builtins" />
+      <item itemvalue="Application.eosio_chain" />
+      <item itemvalue="Application.chainbase" />
+      <item itemvalue="Application.chainbase_test" />
+      <item itemvalue="Application.fc" />
+      <item itemvalue="Application.test_cypher_suites" />
+      <item itemvalue="Application.softfloat" />
+      <item itemvalue="Application.eosio_testing" />
+      <item itemvalue="Application.eos_utilities" />
+      <item itemvalue="Application.Inline" />
+      <item itemvalue="Application.Emscripten" />
+      <item itemvalue="Application.IR" />
+      <item itemvalue="Application.Logging" />
+      <item itemvalue="Application.Platform" />
+      <item itemvalue="Application.Disassemble" />
+      <item itemvalue="Application.eosio-wast2wasm" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.wavm" />
+      <item itemvalue="Application.Runtime" />
+      <item itemvalue="Application.WASM" />
+      <item itemvalue="Application.WAST" />
+      <item itemvalue="Application.bnet_plugin" />
+      <item itemvalue="Application.chain_api_plugin" />
+      <item itemvalue="Application.chain_plugin" />
+      <item itemvalue="Application.db_size_api_plugin" />
+      <item itemvalue="Application.history_api_plugin" />
+      <item itemvalue="Application.history_plugin" />
+      <item itemvalue="Application.http_client_plugin" />
+      <item itemvalue="Application.http_plugin" />
+      <item itemvalue="Application.net_api_plugin" />
+      <item itemvalue="Application.net_plugin" />
+      <item itemvalue="Application.producer_api_plugin" />
+      <item itemvalue="Application.producer_plugin" />
+      <item itemvalue="Application.sql_db_plugin" />
+      <item itemvalue="Application.sql_db_plugin_test" />
+      <item itemvalue="Application.txn_test_gen_plugin" />
+      <item itemvalue="Application.wallet_api_plugin" />
+      <item itemvalue="Application.wallet_plugin" />
+      <item itemvalue="Application.cleos" />
+      <item itemvalue="Application.eosio-abigen" />
+      <item itemvalue="Application.eosio-launcher" />
+      <item itemvalue="Application.keosd" />
+      <item itemvalue="Application.nodeos" />
+      <item itemvalue="Application.plugin_test" />
+      <item itemvalue="Application.print_floats" />
+      <item itemvalue="Application.unit_test" />
+      <item itemvalue="Application.deferred_test" />
+      <item itemvalue="Application.deferred_test.tmp" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3272b060-029d-4ff7-a4b7-4d898b1ed7b0" name="Default" comment="" />
+      <created>1530968238550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530968238550</updated>
+      <workItem from="1530968246906" duration="177000" />
+      <workItem from="1530968486800" duration="1150000" />
+      <workItem from="1530969688256" duration="9914000" />
+      <workItem from="1531215524421" duration="4846000" />
+      <workItem from="1531276425259" duration="598000" />
+      <workItem from="1531283542105" duration="6224000" />
+      <workItem from="1531303922822" duration="607000" />
+      <workItem from="1531315776525" duration="5343000" />
+      <workItem from="1531382094985" duration="3237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32096000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1546" height="901" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23309258" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.3281046" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003283" side_tool="true" weight="0.4366013" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32941177" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41045752" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4996717" weight="0.4366013" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/plugins/sql_db_plugin/db/actions_table.cpp</url>
+          <line>81</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/programs/eosio-abigen/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-968" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/eosio-applesedemo/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CPackConfig.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/EOSIO.cbp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6330">
+          <caret line="462" column="38" selection-start-line="462" selection-start-column="38" selection-end-line="462" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-release/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eos.doxygen.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/eosio_build_ubuntu.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="389" column="29" lean-forward="true" selection-start-line="389" selection-start-column="29" selection-end-line="389" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeModules/installer.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeModules/InstallDirectoryPermissions.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/softfloat/build/template-not-FAST_INT64/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-release/CMakeCache.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/opt/boost/include/boost/asio/io_context.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12840">
+          <caret line="856" selection-start-line="856" selection-end-line="856" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/test/test.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/eosio-make_new_plugin.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/block_storage.h" />
+    <entry file="file://$PROJECT_DIR$/contracts/eosiolib/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/nodeos/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eosio_build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testnet.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testnet.template">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/fc/src/crypto/public_key.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="75" selection-start-line="35" selection-start-column="75" selection-end-line="35" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/nodeos/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="129" column="7" selection-start-line="129" selection-start-column="7" selection-end-line="129" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/cleos/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="551" column="11" lean-forward="true" selection-start-line="551" selection-start-column="11" selection-end-line="551" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/eosio-launcher/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="1158" column="4" selection-start-line="1158" selection-start-column="4" selection-end-line="1158" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/keosd/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/fc/src/crypto/pke.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5197" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/fc/src/crypto/private_key.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/fc/include/fc/crypto/public_key.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/fc/src/crypto/sha256.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/include/eosio/sql_db_plugin/sql_db_plugin.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/consumer.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/consumer_core.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin-old-unuse/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/db/actions_table.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/social/social.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/eosio.system/eosio.system.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="76" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittests/eosio.system_tests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="1941" column="47" lean-forward="true" selection-start-line="1941" selection-start-column="47" selection-end-line="1941" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/db/database.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/sql_db_plugin.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-199">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#120#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/db/actions_table.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="192" column="33" lean-forward="true" selection-start-line="192" selection-start-column="33" selection-end-line="192" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/db/accounts_table.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/sql_db_plugin/db/blocks_table.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
